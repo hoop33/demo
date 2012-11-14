@@ -2,4 +2,4 @@ demo
 ====
 
 This is a demo
-And it's really cool.
+And it's not really cool.
